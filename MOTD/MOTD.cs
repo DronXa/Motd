@@ -46,6 +46,10 @@ namespace SilK.MOTD
                         "Showing \"{0}\" the Message Of The Day."
                     },
                     {
+                        "plugin_disabled",
+                        "Plugin Disabled."
+                    },
+                    {
                         "invalid_parameters",
                         "Invalid Parameters."
                     }
