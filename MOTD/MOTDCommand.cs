@@ -34,7 +34,7 @@ namespace SilK.MOTD
 
         public List<String> Permissions
         {
-            get { return new List<string>(); }
+            get { return new List<string>{ "motd" }; }
         }
 
         public String Syntax
